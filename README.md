@@ -1,3 +1,3 @@
 # Work-Day-Scheduler
-Deployment:
-Work-Day-Scheduler is builded with HTML,CSS and JQUERY.
+
+Deployment:https://sarmanova.github.io/Work-Day-Scheduler/
